@@ -8,5 +8,11 @@ pytorch,
 kevy
 
 <p align="center">
-  <img src="https://github.com/Bikash300895/Self_driving_Car/blob/master/image/Car.PNG"/>
+  <img src="https://github.com/Bikash300895/Self_driving_Car/blob/master/image/Pic1.PNG"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Bikash300895/Self_driving_Car/blob/master/image/Pic2.PNG"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Bikash300895/Self_driving_Car/blob/master/image/Pic3.PNG"/>
 </p>
