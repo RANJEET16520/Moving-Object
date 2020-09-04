@@ -14,6 +14,7 @@ A self-intelligence model built with deep Q-learning technique in PyTorch,Kivy a
   <img src="https://github.com/RANJEET16520/Moving-Object/tree/master/image/Pic3.png"/>
 </p>
 ### Technologies Used
+
 #### Python Libraries
 Numpy , MatplotLib , Kivy, PyTorch
 
