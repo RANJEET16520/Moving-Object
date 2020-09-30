@@ -5,13 +5,13 @@ A self-intelligence model built with deep Q-learning technique in PyTorch,Kivy a
 
 ### Live Demonstraction of object moving
 <p align="center">
-  <img src="https://github.com/RANJEET16520/Moving-Object/tree/master/image/Pic1.png"/>
+  <img src="https://github.com/RANJEET16520/Moving-Object/blob/master/image/Pic1.png"/>
 </p>
 <p align="center">
-  <img src="https://github.com/RANJEET16520/Moving-Object/tree/master/image/Pic2.png"/>
+  <img src="https://github.com/RANJEET16520/Moving-Object/blob/master/image/Pic2.png"/>
 </p>
 <p align="center">
-  <img src="https://github.com/RANJEET16520/Moving-Object/tree/master/image/Pic3.png"/>
+  <img src="https://github.com/RANJEET16520/Moving-Object/blob/master/image/Pic3.png"/>
 </p>
 
 
